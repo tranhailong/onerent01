@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { ListingComponent } from '/app/listing/listing.component'
 
 @Component({
   selector: 'app-console',
